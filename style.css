@@ -50,7 +50,7 @@ nav a:hover{
 
 #welcome{
     min-height: 85vh;
-    background:url('/../imgs/background.jpeg') no-repeat 0;
+    background:url('/../imgs/background.JPEG') no-repeat 0;
 }
 
 #welcome .slogan{
